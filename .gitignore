@@ -1,0 +1,22 @@
+# Kompiliavimo rezultatai
+build/
+*.exe
+*.obj
+*.pdb
+*.ilk
+
+# Visual Studio
+.vs/
+*.user
+x64/
+Debug/
+Release/
+
+# Kurso medžiaga (autorių teisės) - nekeliama į viešą repozitoriją
+*.pdf
+
+# Privatus paaiskinimai (tik man, nekeliama i GitHub)
+PRIVATE/
+
+# Sisteminiai
+Thumbs.db

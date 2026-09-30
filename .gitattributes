@@ -1,0 +1,18 @@
+# Baitu tikslumas: dvejetainiai testu failai - jokio EOL konvertavimo
+*.bin binary
+
+# Deterministiniai duomenys ir rezultatai - visada LF (kad baitu skaicius nekistu)
+data/dataset.txt text eol=lf
+*.csv text eol=lf
+*.svg text eol=lf
+
+# Saltinio kodas - normalizuojamas i LF
+*.cpp text eol=lf
+*.h   text eol=lf
+*.py  text eol=lf
+*.md  text eol=lf
+
+# Visual Studio projektu failai - CRLF (kaip VS ju tikisi)
+*.sln     text eol=crlf
+*.vcxproj text eol=crlf
+*.filters text eol=crlf
