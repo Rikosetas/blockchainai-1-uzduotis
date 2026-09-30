@@ -195,7 +195,8 @@ Rezultatu suma naudojama, kad optimizatorius neismestu skaiciavimu. Pilna lentel
 
 Abi versijos tiesines, O(n). Vienam baitui apie 0,5 ns (v0.1) ir 1,2 ns (v0.2). v0.2 apie
 du kartus letesne del papildomo maisymo, tai priimtinas kompromisas del geresnes lavinos.
-Grafikas: `results/plot_speed.svg`.
+
+![Sparta pagal ivesties dydi](results/plot_speed.svg)
 
 ### 5. Kolizijos
 
@@ -221,8 +222,11 @@ vienas simbolis. Bitai lyginami dekodavus hex. Failai: `results/exp6_avalanche.c
 | v0.2 | 34,77 % / 50,00 % / 63,28 % | 93,75 % |
 
 v0.2 vidurkiai beveik idealus: 50 % bitams ir 93,75 % hex skaitmenims. v0.1 telkiasi ties
-apie 11 %, tai patvirtina, kad reaguoja tik ketvirtadalis isvesties. Grafikai:
-`results/plot_avalanche_hist.svg`, `results/plot_avalanche_bylen.svg`.
+apie 11 %, tai patvirtina, kad reaguoja tik ketvirtadalis isvesties.
+
+![Bitu skirtumo histograma](results/plot_avalanche_hist.svg)
+
+![Vidutinis bitu skirtumas pagal ilgi](results/plot_avalanche_bylen.svg)
 
 ### 7. Spejimas, druska, slaptas atsitiktinumas
 
