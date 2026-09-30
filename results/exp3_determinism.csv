@@ -1,0 +1,5 @@
+check,result
+repeat_1000x_same,PASS
+sequence_A_B_A,PASS
+hash_A,b37bcd95732a7ef3a7dd483accf4e55411040afbe5a175f4c36a8739cef12757
+hash_B,e6080ffef552d98e429105dbcd6279f83994e5166d1b4bc03df7d1503dfeaa6f

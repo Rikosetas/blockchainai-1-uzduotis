@@ -1,0 +1,7 @@
+version,scenario,attempts_to_first_match,total_candidates,total_time_ms,matches
+v1,no_salt,4243,10000,0.952,1
+v1,public_salt,4243,10000,1.008,1
+v1,secret_r_reveal_verify,1,NA,0,1
+v2,no_salt,4243,10000,1.074,1
+v2,public_salt,4243,10000,1.404,1
+v2,secret_r_reveal_verify,1,NA,0,1

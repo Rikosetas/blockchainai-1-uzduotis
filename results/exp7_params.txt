@@ -1,0 +1,3 @@
+target=4242
+salt(hex)=235d8ef24903ae2d
+secret_r(hex)=9c1eb63b9aa55391
