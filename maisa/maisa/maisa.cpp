@@ -10,33 +10,39 @@ static void usage( )
         "Naudojimas:\n"
         "  maisa -f <failas>     maisuoja failo turini (tikslus baitai)\n"
         "  maisa -t <tekstas>    maisuoja teksta kaip UTF-8 (be naujos eilutes)\n"
-        "  maisa -i              rankinis ivedimas (viena eilute, be Enter naujos eilutes)\n";
+        "  maisa -i              rankinis ivedimas (viena eilute, be Enter naujos eilutes)\n"
+        "  parinktys: --v1 | --v2  (numatyta --v2)\n";
 }
 
 int main( int argc, char** argv )
 {
+    int version = 2;
     std::string mode, arg;
 
     for ( int i = 1; i < argc; ++i )
     {
         std::string a = argv [ i ];
 
-        if ( a == "-i" )
+        if ( a == "--v1" ) 
+            version = 1;
+        else if ( a == "--v2" ) 
+            version = 2;
+        else if ( a == "-i" )
             mode = "i";
-        else if ( ( a == "-f" || a == "-t" ) && i + 1 < argc )
-        {
-            mode = a.substr( 1 );
+        else if ( ( a == "-f" || a == "-t" ) && i + 1 < argc ) 
+        { 
+            mode = a.substr( 1 ); 
             arg = argv [ ++i ];
         }
-        else
+        else 
         {
             usage( );
             return 2;
         }
     }
 
-    if ( mode.empty( ) )
-    {
+    if ( mode.empty( ) ) 
+    { 
         usage( );
         return 2;
     }
@@ -54,6 +60,12 @@ int main( int argc, char** argv )
         }
 
         bytes.assign( std::istreambuf_iterator<char>( in ), std::istreambuf_iterator<char>( ) );
+        if ( in.bad( ) )
+        {
+            std::cout << "KLAIDA: nepavyko perskaityti failo: " << arg << "\n";
+            return 1;
+        }
+
         mode_name = "failas(" + arg + ")";
     }
     else if ( mode == "t" )
@@ -72,8 +84,12 @@ int main( int argc, char** argv )
         mode_name = "rankinis(-i)";
     }
 
-    std::cout << myhash::hash_v1( bytes.data( ), bytes.size( ) ) << "\n";
-    std::cout << "rezimas=" << mode_name << " versija=v0.1 baitai=" << bytes.size( ) << "\n";
+    std::string digest = myhash::hash( bytes.data( ), bytes.size( ), version );
+
+    std::cout << digest << "\n";
+    std::cout << "rezimas=" << mode_name
+        << " versija=v0." << version
+        << " baitai=" << bytes.size( ) << "\n";
 
     return 0;
 }
