@@ -1,0 +1,1200 @@
+0001 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0002 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0003 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0004 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0005 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0006 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0007 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0008 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0009 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0010 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0011 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0012 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0013 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0014 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0015 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0016 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0017 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0018 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0019 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0020 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0021 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0022 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0023 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0024 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0025 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0026 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0027 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0028 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0029 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0030 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0031 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0032 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0033 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0034 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0035 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0036 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0037 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0038 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0039 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0040 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0041 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0042 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0043 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0044 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0045 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0046 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0047 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0048 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0049 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0050 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0051 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0052 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0053 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0054 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0055 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0056 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0057 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0058 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0059 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0060 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0061 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0062 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0063 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0064 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0065 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0066 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0067 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0068 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0069 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0070 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0071 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0072 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0073 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0074 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0075 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0076 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0077 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0078 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0079 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0080 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0081 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0082 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0083 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0084 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0085 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0086 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0087 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0088 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0089 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0090 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0091 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0092 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0093 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0094 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0095 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0096 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0097 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0098 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0099 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0100 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0101 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0102 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0103 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0104 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0105 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0106 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0107 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0108 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0109 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0110 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0111 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0112 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0113 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0114 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0115 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0116 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0117 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0118 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0119 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0120 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0121 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0122 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0123 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0124 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0125 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0126 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0127 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0128 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0129 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0130 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0131 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0132 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0133 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0134 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0135 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0136 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0137 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0138 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0139 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0140 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0141 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0142 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0143 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0144 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0145 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0146 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0147 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0148 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0149 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0150 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0151 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0152 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0153 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0154 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0155 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0156 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0157 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0158 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0159 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0160 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0161 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0162 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0163 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0164 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0165 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0166 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0167 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0168 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0169 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0170 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0171 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0172 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0173 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0174 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0175 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0176 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0177 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0178 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0179 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0180 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0181 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0182 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0183 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0184 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0185 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0186 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0187 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0188 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0189 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0190 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0191 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0192 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0193 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0194 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0195 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0196 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0197 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0198 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0199 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0200 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0201 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0202 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0203 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0204 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0205 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0206 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0207 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0208 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0209 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0210 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0211 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0212 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0213 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0214 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0215 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0216 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0217 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0218 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0219 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0220 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0221 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0222 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0223 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0224 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0225 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0226 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0227 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0228 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0229 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0230 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0231 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0232 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0233 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0234 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0235 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0236 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0237 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0238 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0239 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0240 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0241 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0242 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0243 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0244 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0245 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0246 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0247 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0248 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0249 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0250 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0251 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0252 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0253 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0254 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0255 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0256 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0257 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0258 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0259 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0260 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0261 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0262 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0263 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0264 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0265 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0266 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0267 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0268 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0269 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0270 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0271 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0272 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0273 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0274 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0275 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0276 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0277 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0278 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0279 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0280 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0281 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0282 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0283 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0284 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0285 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0286 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0287 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0288 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0289 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0290 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0291 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0292 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0293 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0294 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0295 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0296 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0297 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0298 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0299 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0300 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0301 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0302 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0303 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0304 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0305 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0306 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0307 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0308 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0309 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0310 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0311 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0312 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0313 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0314 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0315 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0316 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0317 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0318 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0319 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0320 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0321 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0322 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0323 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0324 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0325 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0326 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0327 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0328 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0329 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0330 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0331 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0332 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0333 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0334 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0335 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0336 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0337 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0338 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0339 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0340 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0341 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0342 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0343 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0344 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0345 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0346 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0347 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0348 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0349 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0350 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0351 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0352 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0353 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0354 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0355 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0356 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0357 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0358 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0359 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0360 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0361 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0362 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0363 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0364 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0365 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0366 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0367 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0368 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0369 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0370 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0371 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0372 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0373 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0374 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0375 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0376 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0377 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0378 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0379 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0380 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0381 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0382 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0383 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0384 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0385 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0386 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0387 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0388 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0389 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0390 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0391 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0392 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0393 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0394 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0395 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0396 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0397 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0398 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0399 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0400 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0401 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0402 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0403 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0404 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0405 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0406 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0407 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0408 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0409 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0410 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0411 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0412 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0413 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0414 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0415 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0416 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0417 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0418 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0419 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0420 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0421 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0422 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0423 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0424 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0425 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0426 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0427 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0428 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0429 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0430 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0431 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0432 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0433 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0434 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0435 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0436 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0437 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0438 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0439 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0440 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0441 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0442 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0443 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0444 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0445 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0446 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0447 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0448 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0449 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0450 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0451 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0452 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0453 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0454 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0455 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0456 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0457 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0458 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0459 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0460 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0461 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0462 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0463 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0464 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0465 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0466 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0467 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0468 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0469 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0470 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0471 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0472 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0473 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0474 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0475 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0476 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0477 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0478 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0479 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0480 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0481 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0482 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0483 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0484 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0485 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0486 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0487 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0488 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0489 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0490 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0491 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0492 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0493 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0494 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0495 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0496 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0497 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0498 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0499 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0500 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0501 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0502 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0503 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0504 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0505 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0506 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0507 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0508 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0509 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0510 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0511 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0512 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0513 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0514 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0515 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0516 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0517 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0518 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0519 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0520 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0521 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0522 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0523 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0524 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0525 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0526 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0527 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0528 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0529 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0530 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0531 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0532 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0533 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0534 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0535 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0536 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0537 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0538 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0539 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0540 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0541 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0542 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0543 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0544 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0545 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0546 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0547 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0548 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0549 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0550 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0551 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0552 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0553 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0554 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0555 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0556 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0557 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0558 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0559 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0560 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0561 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0562 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0563 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0564 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0565 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0566 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0567 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0568 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0569 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0570 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0571 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0572 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0573 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0574 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0575 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0576 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0577 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0578 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0579 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0580 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0581 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0582 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0583 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0584 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0585 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0586 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0587 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0588 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0589 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0590 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0591 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0592 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0593 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0594 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0595 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0596 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0597 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0598 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0599 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0600 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0601 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0602 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0603 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0604 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0605 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0606 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0607 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0608 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0609 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0610 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0611 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0612 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0613 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0614 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0615 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0616 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0617 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0618 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0619 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0620 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0621 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0622 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0623 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0624 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0625 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0626 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0627 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0628 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0629 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0630 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0631 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0632 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0633 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0634 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0635 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0636 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0637 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0638 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0639 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0640 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0641 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0642 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0643 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0644 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0645 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0646 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0647 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0648 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0649 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0650 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0651 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0652 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0653 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0654 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0655 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0656 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0657 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0658 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0659 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0660 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0661 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0662 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0663 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0664 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0665 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0666 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0667 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0668 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0669 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0670 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0671 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0672 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0673 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0674 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0675 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0676 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0677 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0678 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0679 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0680 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0681 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0682 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0683 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0684 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0685 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0686 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0687 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0688 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0689 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0690 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0691 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0692 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0693 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0694 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0695 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0696 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0697 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0698 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0699 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0700 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0701 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0702 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0703 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0704 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0705 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0706 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0707 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0708 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0709 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0710 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0711 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0712 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0713 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0714 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0715 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0716 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0717 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0718 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0719 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0720 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0721 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0722 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0723 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0724 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0725 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0726 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0727 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0728 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0729 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0730 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0731 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0732 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0733 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0734 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0735 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0736 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0737 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0738 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0739 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0740 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0741 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0742 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0743 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0744 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0745 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0746 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0747 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0748 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0749 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0750 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0751 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0752 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0753 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0754 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0755 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0756 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0757 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0758 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0759 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0760 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0761 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0762 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0763 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0764 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0765 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0766 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0767 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0768 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0769 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0770 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0771 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0772 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0773 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0774 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0775 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0776 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0777 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0778 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0779 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0780 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0781 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0782 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0783 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0784 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0785 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0786 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0787 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0788 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0789 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0790 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0791 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0792 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0793 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0794 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0795 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0796 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0797 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0798 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0799 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0800 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0801 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0802 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0803 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0804 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0805 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0806 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0807 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0808 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0809 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0810 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0811 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0812 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0813 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0814 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0815 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0816 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0817 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0818 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0819 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0820 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0821 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0822 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0823 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0824 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0825 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0826 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0827 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0828 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0829 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0830 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0831 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0832 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0833 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0834 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0835 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0836 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0837 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0838 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0839 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0840 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0841 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0842 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0843 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0844 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0845 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0846 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0847 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0848 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0849 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0850 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0851 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0852 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0853 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0854 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0855 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0856 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0857 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0858 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0859 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0860 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0861 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0862 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0863 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0864 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0865 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0866 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0867 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0868 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0869 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0870 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0871 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0872 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0873 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0874 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0875 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0876 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0877 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0878 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0879 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0880 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0881 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0882 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0883 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0884 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0885 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0886 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0887 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0888 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0889 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0890 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0891 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0892 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0893 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0894 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0895 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0896 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0897 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0898 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0899 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0900 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0901 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0902 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0903 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0904 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0905 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0906 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0907 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0908 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0909 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0910 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0911 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0912 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0913 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0914 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0915 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0916 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0917 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0918 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0919 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0920 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0921 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0922 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0923 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0924 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0925 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0926 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0927 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0928 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0929 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0930 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0931 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0932 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0933 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0934 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0935 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0936 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0937 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0938 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0939 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0940 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0941 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0942 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0943 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0944 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0945 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0946 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0947 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0948 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0949 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0950 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0951 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0952 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0953 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0954 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0955 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0956 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0957 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0958 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0959 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0960 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0961 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0962 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0963 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0964 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+0965 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0966 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0967 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0968 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0969 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0970 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+0971 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0972 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0973 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+0974 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0975 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0976 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0977 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0978 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0979 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0980 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0981 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0982 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0983 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0984 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0985 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0986 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0987 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0988 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+0989 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0990 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+0991 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0992 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0993 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0994 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+0995 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+0996 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+0997 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+0998 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+0999 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+1000 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+1001 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+1002 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+1003 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+1004 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+1005 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+1006 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+1007 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+1008 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+1009 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+1010 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+1011 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+1012 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+1013 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+1014 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+1015 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+1016 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+1017 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+1018 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+1019 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+1020 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+1021 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+1022 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+1023 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+1024 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+1025 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+1026 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+1027 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+1028 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+1029 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+1030 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+1031 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+1032 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+1033 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+1034 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+1035 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+1036 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+1037 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+1038 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+1039 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+1040 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+1041 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+1042 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+1043 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+1044 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+1045 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+1046 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+1047 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+1048 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+1049 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+1050 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+1051 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+1052 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+1053 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+1054 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+1055 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+1056 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+1057 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+1058 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+1059 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+1060 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+1061 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+1062 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+1063 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+1064 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+1065 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+1066 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+1067 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+1068 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+1069 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+1070 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+1071 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+1072 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+1073 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+1074 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+1075 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+1076 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+1077 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+1078 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+1079 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+1080 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+1081 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+1082 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+1083 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+1084 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+1085 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+1086 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+1087 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+1088 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+1089 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+1090 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+1091 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+1092 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+1093 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+1094 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+1095 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+1096 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+1097 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+1098 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+1099 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+1100 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+1101 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+1102 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+1103 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+1104 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+1105 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+1106 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+1107 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+1108 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+1109 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+1110 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+1111 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+1112 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+1113 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+1114 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+1115 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+1116 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+1117 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+1118 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+1119 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+1120 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+1121 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+1122 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+1123 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+1124 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+1125 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+1126 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+1127 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+1128 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+1129 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+1130 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+1131 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+1132 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+1133 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+1134 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+1135 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+1136 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+1137 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+1138 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+1139 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+1140 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+1141 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+1142 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+1143 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+1144 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+1145 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+1146 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+1147 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+1148 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+1149 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+1150 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+1151 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+1152 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+1153 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+1154 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+1155 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+1156 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+1157 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+1158 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+1159 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu.
+1160 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+1161 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+1162 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+1163 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+1164 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+1165 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+1166 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+1167 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+1168 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+1169 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+1170 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti.
+1171 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+1172 Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+1173 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+1174 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+1175 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+1176 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+1177 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž.
+1178 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+1179 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+1180 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+1181 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+1182 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+1183 Merkle medziai leidzia efektyviai patikrinti dideliu duomenu vientisuma.
+1184 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+1185 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+1186 Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+1187 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+1188 Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+1189 Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness). Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+1190 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Darbo irodymas remiasi tinkamumu galvosukiams (puzzle friendliness).
+1191 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Aciū, Lietuva! Šis tekstas turi lietuviu abecelės raides: ą č ę ė į š ų ū ž. Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje.
+1192 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma.
+1193 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+1194 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+1195 Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+1196 Kriptografija saugo duomenis nuo priesu ir uztikrina ju vientisuma. Pirmavaizdzio atsparumas: is maisos reiksmes sunku atkurti ivesti. Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme.
+1197 Bloku grandiniu technologijos keicia pasitikejima skaitmeniniame pasaulyje. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+1198 Determinizmas reiskia, kad tie patys baitai visada duoda ta pacia maisos reiksme. Lavinos efektas: mazas ivesties pokytis pakeicia apie puse isvesties bitu. Kolizijos neisvengiamai egzistuoja, bet gera funkcija jas paslepia.
+1199 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
+1200 Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu. Maisos funkcija ivesti paverciai fiksuoto ilgio santrauka - skaitmeniniu pirstu atspaudu.
